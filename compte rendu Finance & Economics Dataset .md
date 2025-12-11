@@ -1,3 +1,4 @@
+![wissal foto](https://github.com/user-attachments/assets/7bed0080-2c6c-448b-a4de-323f0ee1e5de)
 ---
 
 # 📘 GRAND GUIDE : PRÉDICTION DE MOUVEMENTS BOURSIERS PAR MACHINE LEARNING
