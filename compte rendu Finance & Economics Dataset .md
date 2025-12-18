@@ -367,3 +367,4 @@ Ce projet illustre la **différence cruciale** entre ML académique et ML appliq
 ---
 
 *"En finance, il ne suffit pas de prédire juste. Il faut prédire mieux que le consensus du marché."*
+https://drive.google.com/file/d/1yqnI0RPkmyFXcJuD6R9wM37MzvRjeTSY/view?usp=sharing
