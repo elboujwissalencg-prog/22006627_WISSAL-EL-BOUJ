@@ -357,13 +357,6 @@ Ce projet illustre la **différence cruciale** entre ML académique et ML appliq
 ✅ **La validation temporelle est non-négociable.**
 *   Tester sur le futur est la seule façon honnête de mesurer la performance.
 
-**Prochaines Étapes Recommandées :**
-1.  Implémenter les corrections anti-overfitting (max_depth, min_samples_leaf)
-2.  Ajouter 10-15 indicateurs techniques
-3.  Passer à XGBoost avec early stopping
-4.  Mettre en place une TimeSeriesSplit avec 5 folds
-5.  Calculer le Sharpe Ratio et Maximum Drawdown sur backtests
-
----
 
 *"En finance, il ne suffit pas de prédire juste. Il faut prédire mieux que le consensus du marché."*
+https://drive.google.com/file/d/1yqnI0RPkmyFXcJuD6R9wM37MzvRjeTSY/view?usp=drive_link
